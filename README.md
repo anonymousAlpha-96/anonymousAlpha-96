@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @anonymousAlpha-96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C++, C and I'm trying to learn github too
+- 📫 you can reach me by mail
 
 <!---
-anonymousAlpha-96/anonymousAlpha-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+anonymousAlpha-96/anonymousAlpha-96 is a ✨ special ✨ repository because its appears on your GitHub profile..
 --->
