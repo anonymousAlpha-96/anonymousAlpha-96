@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anonymousAlpha-96
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++, C and I'm trying to learn github too
 - 📫 you can reach me by mail
 
 <!---
