@@ -1,4 +1,2 @@
 - 👋 Hey, good to see here!
-- I'm working as an Application Engineer
-- I’m interested in software development
-- You can reach me by mail 
+- Application Engineer by profession
