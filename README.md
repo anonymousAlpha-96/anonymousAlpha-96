@@ -33,6 +33,3 @@ I enjoy solving complex engineering problems, understanding how things work unde
 ### 🤝 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ankit-hegde-78803b16b/) · [GitHub](https://github.com/anonymousAlpha-96)
-
-- 🏍️ Code during the week, ride on weekends.
-- **If you can't find a way, Create one.**
